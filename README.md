@@ -1,3 +1,4 @@
+<!--
 - 👋 Hi, I’m @RFitzgar
 - 👀 I’m interested in plasma physics and measuring the energies of high-energy photons!
 - 🌱 I’m currently learning how to use gradient descent optimization to design a spectrometer.
